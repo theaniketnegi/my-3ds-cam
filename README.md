@@ -11,6 +11,7 @@ viewfinder is really slow right now.
 ## using
 - right trigger to take a photo
 - start to go back to homebrew menu
+- images get saved to sdmc:/3DImages
 
 ## building
 pre-requisites:
