@@ -8,7 +8,11 @@ major chunk of code took from [devkit examples](https://github.com/devkitPro/3ds
 
 viewfinder is really slow right now.
 
-# building
+## using
+right trigger to take a photo
+start to go back to homebrew menu
+
+## building
 pre-requisites:
 - a computer
 - [devkitPro](https://devkitpro.org/wiki/Getting_Started)
